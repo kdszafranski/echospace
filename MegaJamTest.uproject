@@ -15,5 +15,8 @@
 			"Name": "JsonBlueprintUtilities",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
